@@ -1,7 +1,7 @@
 #ATIVIDADES DO PROFESSOR KENYO#
 
 ##Neste repositório contém as resoluções das listas de exercícios passadas pelo professor!##
-##O objetivo principal é praticar a lógica + estruturas de dados, sem o uso de IA.##
+##O objetivo principal é praticar a lógica + estruturas de dados.##
 
 #Exercícios de Estruturas de Dados - Revisão
 - 1. Soma de Elementos em um Array: Crie um programa que recebe um array de
